@@ -300,7 +300,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\Umbraco.sdf" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\fanoe.css" />
     <Content Include="css\rte.css" />
