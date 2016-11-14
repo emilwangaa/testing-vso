@@ -300,7 +300,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\cache\d\a\8\9\1\9\da891906abd6a4a4698f75c52b692281cdf72d88.jpg" />
     <Content Include="App_Data\Logs\UmbracoTraceLog.T460s.txt" />
     <Content Include="App_Data\TEMP\ClientDependency\T460S-6fece3ab2ec9c0cb8b850c03c68db3bb-map.xml" />
     <Content Include="App_Data\TEMP\DistCache\T460S\LMW3SVC2ROOT-lastsynced.txt" />
