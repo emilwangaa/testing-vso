@@ -300,7 +300,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\Logs\UmbracoTraceLog.T460s.txt" />
     <Content Include="App_Data\TEMP\ClientDependency\T460S-6fece3ab2ec9c0cb8b850c03c68db3bb-map.xml" />
     <Content Include="App_Data\TEMP\DistCache\T460S\LMW3SVC2ROOT-lastsynced.txt" />
     <Content Include="App_Data\Umbraco.sdf" />
@@ -2984,7 +2983,6 @@
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\Models\" />
     <Folder Include="App_Data\TEMP\Install\" />
     <Folder Include="Views\MacroPartials\" />
   </ItemGroup>
