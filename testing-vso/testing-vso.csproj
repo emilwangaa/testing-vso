@@ -300,8 +300,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\TEMP\ClientDependency\T460S-6fece3ab2ec9c0cb8b850c03c68db3bb-map.xml" />
-    <Content Include="App_Data\TEMP\DistCache\T460S\LMW3SVC2ROOT-lastsynced.txt" />
     <Content Include="App_Data\Umbraco.sdf" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\fanoe.css" />
@@ -2926,20 +2924,6 @@
     <Content Include="App_Browsers\w3cvalidator.browser" />
     <Content Include="App_Data\packages\created\createdPackages.config" />
     <Content Include="App_Data\packages\installed\installedPackages.config" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\External\Index\segments.gen" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\External\Index\segments_2" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\External\Index\_0.cfs" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\InternalMember\Index\segments.gen" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\InternalMember\Index\segments_1" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\Internal\Index\segments.gen" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\Internal\Index\segments_4" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\Internal\Index\_0.cfs" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\Internal\Index\_0_2.del" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\Internal\Index\_1.cfs" />
-    <Content Include="App_Data\TEMP\ExamineIndexes\T460S\Internal\Index\_2.cfs" />
-    <Content Include="App_Data\TEMP\FileUploads\BodyPart_675b383a-f770-463c-8afa-9e6e9b479e02" />
-    <Content Include="App_Data\TEMP\PluginCache\umbraco-plugins.T460S.hash" />
-    <Content Include="App_Data\TEMP\PluginCache\umbraco-plugins.T460S.list" />
     <Content Include="App_Data\umbraco.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -2983,7 +2967,6 @@
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\TEMP\Install\" />
     <Folder Include="Views\MacroPartials\" />
   </ItemGroup>
   <PropertyGroup>
