@@ -3005,7 +3005,6 @@
     <Content Include="Umbraco\Xslt\Web.config" />
     <Content Include="App_Browsers\Form.browser" />
     <Content Include="App_Browsers\w3cvalidator.browser" />
-    <Content Include="App_Data\Models\models.hash" />
     <Content Include="App_Data\NuGetBackup\20161114-080919\CopyLogs\UmbracoBinBackup.log" />
     <Content Include="App_Data\NuGetBackup\20161114-080938\Config\404handlers.config" />
     <Content Include="App_Data\NuGetBackup\20161114-080938\Config\applications.config" />
@@ -3082,8 +3081,6 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Data\Models\all.generated.cs" />
-    <Compile Include="App_Data\Models\models.generated.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -3091,6 +3088,7 @@
     <Analyzer Include="..\packages\Microsoft.CodeAnalysis.Analyzers.1.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Data\Models\" />
     <Folder Include="App_Data\NuGetBackup\20161114-080938\Umbraco\" />
     <Folder Include="App_Data\NuGetBackup\20161114-080938\Umbraco_Client\" />
     <Folder Include="App_Data\TEMP\Install\" />
